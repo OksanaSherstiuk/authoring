@@ -1,6 +1,33 @@
 # Github Flavoured Markdown
-## [External link](https://help.github.com/en)
-## [Internal Link](https://github.com/OksanaSherstiuk/authoring/tree/main/images)
-## ![Images](https://github.com/OksanaSherstiuk/authoring/blob/main/images/logo.png)
+
+## Checkboxes
+
+- [X] [External Link](#external-link)
+- [X] [Internal Link](#checkboxes)
+- [X] [Images](#images)
+- [X] [Emojis](#emojis)
+- [X] [Tables](#tables)
+
+## External Link
+
+You can find github documentation [here](https://help.github.com/en).
+
+## Images
+
+Here you can find the [images folder](/images/).
+
+![github-logo](/images/logo.png)
+
 ## Emojis
-## Tablets
+
+:bowtie:
+:smile:
+:laughing:
+:blush:
+
+## Tables
+
+| Name  | Class |
+| ----- | :---: |
+| Fran  |  13a  |
+| Jenna |  19   |
